@@ -340,6 +340,7 @@
 				TargetAttributes = {
 					2AFC8D73176F966000F7F3B5 = {
 						DevelopmentTeam = 8JYXP253P4;
+						ProvisioningStyle = Automatic;
 					};
 				};
 			};
@@ -499,12 +500,13 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = 8JYXP253P4;
 				FRAMEWORK_SEARCH_PATHS = ../Frameworks;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Scanner/Scanner-Prefix.pch";
 				INFOPLIST_FILE = "Scanner/Scanner-Info.plist";
 				OTHER_LDFLAGS = "";
-				PRODUCT_BUNDLE_IDENTIFIER = net.16px.ScannerTnk;
+				PRODUCT_BUNDLE_IDENTIFIER = net.16px.ScannerTnkX;
 				PRODUCT_NAME = ScannerTnk;
 				PROVISIONING_PROFILE = "";
 			};
@@ -557,12 +559,13 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = 8JYXP253P4;
 				FRAMEWORK_SEARCH_PATHS = ../Frameworks;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Scanner/Scanner-Prefix.pch";
 				INFOPLIST_FILE = "Scanner/Scanner-Info.plist";
 				OTHER_LDFLAGS = "";
-				PRODUCT_BUNDLE_IDENTIFIER = net.16px.ScannerTnk;
+				PRODUCT_BUNDLE_IDENTIFIER = net.16px.ScannerTnkX;
 				PRODUCT_NAME = ScannerTnk;
 				PROVISIONING_PROFILE = "";
 			};

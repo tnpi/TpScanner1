@@ -18,7 +18,7 @@
     NSError* error = nil;
     //    NSString *remoteLogHost = @"192.168.1.1";
     //    NSString *remoteLogHost = @"192.168.246.84";
-        NSString *remoteLogHost = @"192.168.1.176";
+        NSString *remoteLogHost = @"192.168.1.25";
 
     // ワイヤレスでログを配信する
     [STWirelessLog broadcastLogsToWirelessConsoleAtAddress:remoteLogHost usingPort:4999 error:&error];

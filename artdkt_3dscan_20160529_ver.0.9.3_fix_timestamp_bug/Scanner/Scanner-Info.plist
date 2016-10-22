@@ -28,6 +28,8 @@
 	<string>0.5</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
+	<key>NSCameraUsageDescription</key>
+	<string>Camera image used for motion tracking and model texturing</string>
 	<key>UIFileSharingEnabled</key>
 	<true/>
 	<key>UILaunchImages~ipad</key>

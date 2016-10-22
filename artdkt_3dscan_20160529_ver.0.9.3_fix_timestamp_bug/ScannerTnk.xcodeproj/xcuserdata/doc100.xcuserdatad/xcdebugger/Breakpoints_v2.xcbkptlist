@@ -16,7 +16,7 @@
             startingLineNumber = "842"
             endingLineNumber = "842"
             landmarkName = "-meshViewWillDismiss"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -32,7 +32,7 @@
             startingLineNumber = "472"
             endingLineNumber = "472"
             landmarkName = "-enterViewingState"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -48,7 +48,7 @@
             startingLineNumber = "908"
             endingLineNumber = "908"
             landmarkName = "-meshViewDidRequestColorizing:previewCompletionHandler:enhancedCompletionHandler:"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -64,7 +64,7 @@
             startingLineNumber = "129"
             endingLineNumber = "129"
             landmarkName = "-viewDidLoad"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -80,7 +80,7 @@
             startingLineNumber = "1079"
             endingLineNumber = "1079"
             landmarkName = "-receiveUdpData:"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -96,7 +96,7 @@
             startingLineNumber = "1078"
             endingLineNumber = "1078"
             landmarkName = "-receiveUdpData:"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>
